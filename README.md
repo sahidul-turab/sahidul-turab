@@ -39,7 +39,6 @@
 |---|---|---|
 | **[CMS Question Formatter](https://github.com/sahidul-turab/cms-questions-converter)** · [live ↗](https://cms-questions-converter.vercel.app) | Converts raw question files into the exact CMS format, with LaTeX rules learned from the existing question bank | Vite · JavaScript |
 | **[CMS AI Automation Demo](https://github.com/sahidul-turab/cms-demo)** · [live ↗](https://cms-demo-amber-three.vercel.app) | Shows the model-test workflow moving from hours of manual entry to an AI-assisted pipeline with human review | Next.js · Recharts |
-| **[Program Ops Dashboard](https://github.com/sahidul-turab/program-operations)** · [live ↗](https://program-operations.vercel.app) | Live class and exam schedule BI, with KPIs, drill-downs and teacher clash detection | React · Vite · Recharts · Apps Script |
 | **[Class Intelligence Core](https://github.com/sahidul-turab/project-analysis-dashboard)** · [live ↗](https://project-analysis-dashboard.vercel.app) | Studio concurrency, teacher load and batch health, read from Google Sheets in real time | Next.js · Recharts |
 | **[Ops Intelligence Tool](https://github.com/sahidul-turab/ops-intelligence-tool)** · [live ↗](https://ops-intelligence-tool.vercel.app) | Team log of issues, risks, punctuality and wins per person, with role-based access | Next.js · Firebase |
 | **[Ops Task Portal](https://github.com/sahidul-turab/task-mgmt)** · [live ↗](https://task-shikho.vercel.app) | Team task tracker with due-today and overdue views and daily email reports | Next.js · Firebase · Nodemailer |
